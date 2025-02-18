@@ -45,8 +45,8 @@ struct FTopLevelFolders
 {
 	GENERATED_BODY()
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "TopLevelFolders", DisplayName="Main Folders")
-	TArray<FMainVpFolder> MainFolders;
+	/*UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "TopLevelFolders", DisplayName="Main Folders")
+	TArray<FMainVpFolder> MainFolders;*/
 
 	// Properties ordered how UE will organize them by default.
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "TopLevelFolders", DisplayName="Animation")
