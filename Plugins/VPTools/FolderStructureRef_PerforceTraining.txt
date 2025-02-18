@@ -1,0 +1,95 @@
+Assets
+  - Characters
+  - SELs
+    - SM
+      - Park
+    - SK
+    - Blockouts
+  - Props
+    - SM
+      - Statue (example item)
+      - Foliage
+        - Flowers
+    - SK
+      - Umbrella
+        - Animations
+        - Textures
+        - SK_Umbrella
+        - MI_Umbrella
+  - Vehicles
+  - Weapons
+  - Packs
+Blueprints
+  - SET01_Door
+  - n_Display
+    - Meshes
+    - nDisplay_4k
+  - Environment
+  - MRQ_Presets
+  - ColorCurves
+  - OCIO_Config
+  - BP_ISM
+Animations
+  - SEQ001
+    - SH001_1
+      - Characters
+      - Props
+      - Vehicles
+      - SELs
+      - Weapons
+  - SEQ002
+Sequences
+  - EP001
+    - SEQ001
+      - Shots
+        - SEQ001SH0001_v1
+      - Sub_sequences
+      - LS_S001_Master
+  - EP002
+  - EP003
+Development
+SETs
+  - S001_Park
+    - Levels
+      - PLA
+      - Adds
+      - LIs
+      - SLs
+      - ML_S001_Park
+    - Sequences
+  - S002_Urban
+VFX
+  - Fireworks
+    - Materials
+    - Textures
+    - Meshes
+    - BP
+    - Sounds
+    - NS_Fireworks
+    - NS_Fireworks_v2
+    - NS_Fireworks_Projectile
+  - VFXexplosion
+Materials
+  - MM
+    - VFX
+    - UI
+    - Media
+  - MI
+  - LMM
+  - LMI
+  - MF
+  - MPC
+Textures
+  - Textures
+  - Brushes
+  - HDRi
+  - Reusable
+  - Blank
+Movies
+Sounds
+Metahumans
+Megascans
+UI
+  - HUD
+  - Backgrounds
+  - Animated
