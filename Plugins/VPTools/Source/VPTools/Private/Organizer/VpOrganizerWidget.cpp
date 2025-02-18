@@ -1,5 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
-
+// Copyright Bruce Wade, 2024
 
 #include "Organizer/VpOrganizerWidget.h"
 #include "EditorAssetLibrary.h"
